@@ -12,7 +12,7 @@ The character sheet is from: https://dnd.wizards.com/products/tabletop-games/trp
 
 For any questions please contact me at: coralexbadea99@gmail.com
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/36925146/89038821-8a46ad00-d330-11ea-87c8-6c39eabadd63.gif)
+![ezgif com-video-to-gif(2)](https://user-images.githubusercontent.com/36925146/89041769-705b9900-d335-11ea-8dc3-dcf3ee7b6e00.gif)
 ![ezgif com-video-to-gif(1)](https://user-images.githubusercontent.com/36925146/89039043-f0cbcb00-d330-11ea-8ffb-33473374a3f8.gif)
 
 
