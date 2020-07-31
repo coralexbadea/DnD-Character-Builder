@@ -1,0 +1,4 @@
+#Fri Jul 31 16:31:48 EEST 2020
+base.0=/home/aedab/AndroidStudioProjects/play_ground/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
