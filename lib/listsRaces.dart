@@ -55,7 +55,7 @@ class DnDRacesList extends StatelessWidget {
                   Wrap(
                     children: [
                       Text("Racial Traits: ", style: TextStyle(fontWeight: FontWeight.w600),),
-                      //Text(dndRace.traits),
+                      Text(dndRace.traits),
                     ],
                   ),
                 ],
