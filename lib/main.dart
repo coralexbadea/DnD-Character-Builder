@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       create: (context) => MyCharacter(),
       child: MaterialApp(
-        debugShowCheckedModeBanner: false,
+        debugShowCheckedModeBanner: false,//no debug mode
         title: 'Flutter Demo',
         theme: ThemeData(
           primarySwatch: Colors.deepPurple,
