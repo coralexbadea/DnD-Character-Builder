@@ -5,7 +5,7 @@ D&D is a game based on storytelling that requires the composition of a character
 The app saves its state for a prolonged champain and automatically updates dependent characteristics. For example when your strenght increases all strenght dependent traits are also modified. No more need for pencil and paper.
 
 
-# Disclaimer!
+## Disclaimer ##
 The app shall be used only for entertaiment and educational purposes!
 The images from the app are from:https://www.dndbeyond.com/
 The character sheet is from: https://dnd.wizards.com/products/tabletop-games/trpg-resources/trpg-resources
